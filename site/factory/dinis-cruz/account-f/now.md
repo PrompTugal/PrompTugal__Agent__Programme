@@ -1,5 +1,6 @@
 # Now (2026-11-26T02:31Z)
 
-- Key made and published (commit 82bc04b); history of programme@PrompTugal.vicky moved into `history/`; this area written.
-- Next: read the website's REALITY.md, the app briefs and the stale pages that show the programme, and say what is out of date for the iOS app, within the inherited limits (the agenda is frozen, so I can check and report staleness but not refresh it from Web Summit).
+- Done: key published, history moved into `history/`, area written, conductor told.
+- Found: the programme the site holds (`desks/programme/agenda.json`, 225 items, 10 to 12 Nov 2026) ended on 12 November and was frozen on 11 November at Dinis's word. Today is 26 November, so the site's front-page agenda and the iOS app have no upcoming programme. REALITY.md still describes the older 210-item file.
+- Held: no change to the agenda, no machine reads of Web Summit, Luma, Meetup or Eventbrite, until Dinis answers the ask in `agent.json` (archive, upcoming from organisers' own public pages, or both).
 - Waiting on: the ABP grant, my key in the website's board/keys.json, my wake.
