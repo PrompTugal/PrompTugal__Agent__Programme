@@ -1,0 +1,13 @@
+{
+ "excerpt_of": "desks/conductor-vicky/account.json",
+ "entry": {
+  "agent": "programme@PrompTugal.vicky",
+  "session": "session_015JeffJEa7Kn9H481ovCQy6",
+  "trigger": "trig_011oPzwGaank1ifTe5GeX8W1",
+  "cron": "44 * * * *",
+  "model": "Sonnet",
+  "state": "on",
+  "started": "2026-11-10T11:55Z",
+  "onboarding": "desks/conductor-vicky/onboarding/programme.md"
+ }
+}
