@@ -19,8 +19,9 @@
   "Dinis himself: the agenda ask below (the freeze is his and Vicky's word of 11 Nov; a relay from another session does not lift it)",
   "cl-6.abp: an ABP grant naming me (until then Vicky's old limits apply)"
  ],
- "updated": "2026-11-26T11:17:50Z",
+ "updated": "2026-11-26T11:18Z",
  "asks_for_dinis": [
   "The Web Summit programme ended on 12 November and desks/programme/agenda.json is frozen at its 11 November state (your word, 11 Nov: do not use Web Summit's data). So the site and the iOS app show no upcoming programme. Which should I do: (a) keep the frozen agenda as a past archive and say so on its pages; (b) build the upcoming programme only from organisers' own public pages and feeds that are not machine-read-banned (for example lisbontechfringe.com's published events feed, cited at the organiser's page, and Portugal's public bodies); (c) both. I recommend (c). Until you answer I change nothing in the agenda."
- ]
+ ],
+ "asks_for_abp": "Dinis: my grant has no history/** path, but item 2 of my brief (his word of 26 Nov: every agent has the entire history it needs) puts the history of programme@PrompTugal.vicky there. Please add history/** to my writes."
 }
