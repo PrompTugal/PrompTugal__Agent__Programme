@@ -1,0 +1,23 @@
+{
+ "name": "cl-6.programme",
+ "agent": "cl-6.programme@PrompTugal.dinis",
+ "session": "https://claude.ai/code/session_016CrbJLwnkTq2kxfioHp6py",
+ "model": "Sonnet",
+ "twin_of": "programme@PrompTugal.vicky",
+ "role": "The events programme of PrompTugal.news (Vicky's programme desk, run here on account 6), feeding the site and the iOS app",
+ "key": {
+  "file": "site/keys/cl-6.programme.json",
+  "encryption_fingerprint": "sha256:7bebcb3fe2283d07",
+  "signing_fingerprint": "sha256:4dff66c3b3d5a528",
+  "in_website_board_keys": false
+ },
+ "history": "history/PROVENANCE.md",
+ "state": "set up: key and history published; area written; reading the site",
+ "limits": "Vicky's team's old limits stand until Dinis changes them: the agenda is frozen, no machine reads of websummit.com, its subdomains or the app, none of luma.com, lu.ma, meetup.com or eventbrite.com; delete nothing (history/desks/programme/notes/).",
+ "waiting_on": [
+  "cl-6.abp: the ABP grant for this agent",
+  "cl-6.conductor: this key in the website's board/keys.json (my push access to the website is granted; the signature gate reads that file)",
+  "cl-6.maestro: my wake, once set up"
+ ],
+ "updated": "2026-11-26T02:31Z"
+}
